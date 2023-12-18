@@ -1,0 +1,7 @@
+Exercice  Ecrire un programme jav qui demande à l'u lisateur
+ d'introduire 10 nombres en ers. Ces nombres sont enregistrés dans un tableau.
+  Le programme affiche ensuite une des phrases suivantes : 
+  le tableau est croissant 
+  le tableau est décroissant 
+  le tableau est constant
+   le tableau est quelconque
